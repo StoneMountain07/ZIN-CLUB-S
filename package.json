@@ -1,0 +1,21 @@
+{
+  "name": "wife-29th-birthday-website",
+  "version": "1.0.0",
+  "description": "Luxurious 29th birthday website with IndexedDB media vault and PC folder import",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve"
+  },
+  "keywords": [
+    "birthday",
+    "github-pages",
+    "luxury",
+    "indexeddb"
+  ],
+  "author": "Devoted Husband",
+  "license": "MIT",
+  "dependencies": {
+    "tailwindcss": "^3.3.0",
+    "font-awesome": "^6.4.0"
+  }
+}
